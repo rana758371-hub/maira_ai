@@ -1,0 +1,5 @@
+"name": "Maira AI Assistant",
+  "description": "Mobile-first AI Assistant with screen awareness, device automation, and Bengali, English & Hinglish voice support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
